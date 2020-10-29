@@ -1,5 +1,5 @@
 {
-  "name": "template-cli",
+  "name": "node-template-cli",
   "version": "1.0.0",
   "description": "Template for Node based CLI apps.",
   "main": "./lib/index.js",

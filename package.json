@@ -1,0 +1,16 @@
+{
+  "name": "template-cli",
+  "version": "1.0.0",
+  "description": "Template for Node based CLI apps.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "template-cli": "./bin/cli.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "dem1se",
+  "license": "MIT"
+}
